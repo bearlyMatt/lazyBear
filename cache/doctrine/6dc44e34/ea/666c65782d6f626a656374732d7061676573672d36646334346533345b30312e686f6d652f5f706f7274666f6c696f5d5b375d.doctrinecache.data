@@ -1,0 +1,78 @@
+1621888131
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:15:"home/_portfolio";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:9:"Portfolio";s:4:"menu";s:9:"portfolio";s:10:"portfolios";a:6:{i:0;a:12:{s:5:"title";s:6:"Dreams";s:8:"subtitle";s:14:"Website Design";s:6:"layout";s:7:"default";s:7:"modalid";i:1;s:4:"date";i:1405641600;s:3:"img";s:10:"dreams.png";s:9:"thumbnail";s:20:"dreams-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:213:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.";}i:1;a:12:{s:5:"title";s:6:"Escape";s:8:"subtitle";s:14:"Website Design";s:6:"layout";s:7:"default";s:7:"modalid";i:2;s:4:"date";i:1405555200;s:3:"img";s:10:"escape.png";s:9:"thumbnail";s:20:"escape-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:215:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim  . Cu eum dicam feugiat noluisse.";}i:2;a:12:{s:5:"title";s:6:"Golden";s:8:"subtitle";s:14:"Website Design";s:6:"layout";s:7:"default";s:7:"modalid";i:3;s:4:"date";i:1405468800;s:3:"img";s:10:"golden.png";s:9:"thumbnail";s:20:"golden-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:211:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.";}i:3;a:12:{s:5:"title";s:9:"Treehouse";s:8:"subtitle";s:14:"Website Design";s:6:"layout";s:7:"default";s:7:"modalid";i:4;s:4:"date";i:1405382400;s:3:"img";s:13:"treehouse.png";s:9:"thumbnail";s:23:"treehouse-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:211:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.";}i:4;a:12:{s:5:"title";s:17:"Startup Framework";s:8:"subtitle";s:14:"Website Design";s:6:"layout";s:7:"default";s:7:"modalid";i:5;s:4:"date";i:1405296000;s:3:"img";s:21:"startup-framework.png";s:9:"thumbnail";s:31:"startup-framework-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:211:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.";}i:5;a:12:{s:5:"title";s:11:"Round Icons";s:8:"subtitle";s:14:"Graphic Design";s:6:"layout";s:7:"default";s:7:"modalid";i:6;s:4:"date";i:1405382400;s:3:"img";s:14:"roundicons.png";s:9:"thumbnail";s:24:"roundicons-thumbnail.png";s:3:"alt";s:9:"image-alt";s:11:"projectdate";s:10:"April 2014";s:6:"client";s:15:"Start Bootstrap";s:8:"category";s:15:"Web Development";s:11:"description";s:211:"Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.";}}}s:11:"frontmatter";s:3224:"title: Portfolio
+menu: portfolio
+portfolios:
+    - title: Dreams
+      subtitle: Website Design
+      layout: default
+      modalid: 1
+      date: 2014-07-18
+      img: dreams.png
+      thumbnail: dreams-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+    - title: Escape
+      subtitle: Website Design
+      layout: default
+      modalid: 2
+      date: 2014-07-17
+      img: escape.png
+      thumbnail: escape-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim  . Cu eum dicam feugiat noluisse.
+    - title: Golden
+      subtitle: Website Design
+      layout: default
+      modalid: 3
+      date: 2014-07-16
+      img: golden.png
+      thumbnail: golden-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Treehouse
+      subtitle: Website Design
+      layout: default
+      modalid: 4
+      date: 2014-07-15
+      img: treehouse.png
+      thumbnail: treehouse-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Startup Framework
+      subtitle: Website Design
+      layout: default
+      modalid: 5
+      date: 2014-07-14
+      img: startup-framework.png
+      thumbnail: startup-framework-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.
+    - title: Round Icons
+      subtitle: Graphic Design
+      layout: default
+      modalid: 6
+      date: 2014-07-15
+      img: roundicons.png
+      thumbnail: roundicons-thumbnail.png
+      alt: image-alt
+      projectdate: April 2014
+      client: Start Bootstrap
+      category: Web Development
+      description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in v. Cu eum dicam feugiat noluisse.                 ";s:8:"markdown";s:57:"## Portfolio
+### Lorem ipsum dolor sit amet consectetur.
+";}s:7:"storage";a:6:{s:3:"key";s:15:"home/_portfolio";s:11:"storage_key";s:18:"01.home/_portfolio";s:8:"template";s:9:"portfolio";s:17:"storage_timestamp";i:1619815197;s:8:"markdown";a:1:{s:0:"";a:1:{s:9:"portfolio";i:1619815197;}}s:8:"checksum";s:32:"f6e08b02ae64873d3a8be36758249968";}}

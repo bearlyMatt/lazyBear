@@ -1,0 +1,16 @@
+1621887863
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:14:"home/_services";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:8:"Services";s:4:"menu";s:8:"Services";s:5:"class";s:5:"small";s:8:"services";a:3:{i:0;a:3:{s:6:"header";s:10:"E-Commerce";s:4:"icon";s:13:"shopping-cart";s:4:"text";s:132:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.";}i:1;a:3:{s:6:"header";s:17:"Responsive Design";s:4:"icon";s:6:"laptop";s:4:"text";s:132:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.";}i:2;a:3:{s:6:"header";s:12:"Web Security";s:4:"icon";s:4:"lock";s:4:"text";s:132:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.";}}}s:11:"frontmatter";s:634:"title: Services
+menu: Services
+class: small
+services:
+    - header: E-Commerce
+      icon: shopping-cart
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - header: Responsive Design
+      icon: laptop
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
+    - header: Web Security
+      icon: lock
+      text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.";s:8:"markdown";s:55:"## Services
+### Lorem ipsum dolor sit amet consectetur
+";}s:7:"storage";a:6:{s:3:"key";s:14:"home/_services";s:11:"storage_key";s:17:"01.home/_services";s:8:"template";s:8:"services";s:17:"storage_timestamp";i:1619815197;s:8:"markdown";a:1:{s:0:"";a:1:{s:8:"services";i:1619815197;}}s:8:"checksum";s:32:"a8b3244afe1b17179f2c69bd6d26c56d";}}

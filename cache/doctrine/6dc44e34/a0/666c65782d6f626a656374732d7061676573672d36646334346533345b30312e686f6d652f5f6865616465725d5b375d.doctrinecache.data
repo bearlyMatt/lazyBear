@@ -1,0 +1,10 @@
+1621888131
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"home/_header";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:6:"Header";s:4:"menu";s:3:"Top";s:7:"buttons";a:1:{i:0;a:3:{s:4:"text";s:12:"Tell me more";s:3:"url";s:6:"#about";s:7:"primary";b:1;}}s:8:"featured";s:10:"header.jpg";}s:11:"frontmatter";s:132:"title: Header
+menu: Top
+buttons:
+    -
+        text: 'Tell me more'
+        url: '#about'
+        primary: true
+featured: header.jpg";s:8:"markdown";s:54:"# Welcome to Lazy Bear Records
+## Scottish Micro Label";}s:7:"storage";a:6:{s:3:"key";s:12:"home/_header";s:11:"storage_key";s:15:"01.home/_header";s:8:"template";s:6:"header";s:17:"storage_timestamp";i:1621887530;s:8:"markdown";a:1:{s:0:"";a:1:{s:6:"header";i:1621887530;}}s:8:"checksum";s:32:"441fbeb61158e6a447b03c0935f8f4b2";}}

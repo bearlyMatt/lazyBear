@@ -1,0 +1,12 @@
+1621887808
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"home/_clients";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:7:"Clients";s:4:"menu";s:7:"clients";s:7:"clients";a:4:{i:0;a:2:{s:4:"logo";s:7:"css.jpg";s:3:"url";s:44:"http://www.w3.org/Style/CSS/Overview.en.html";}i:1;a:2:{s:4:"logo";s:8:"grav.jpg";s:3:"url";s:22:"http://www.getgrav.org";}i:2;a:2:{s:4:"logo";s:8:"html.jpg";s:3:"url";s:24:"http://validator.w3.org/";}i:3;a:2:{s:4:"logo";s:10:"jquery.jpg";s:3:"url";s:18:"http://jquery.com/";}}}s:11:"frontmatter";s:294:"title: Clients
+menu: clients
+clients:
+    - logo: css.jpg
+      url: "http://www.w3.org/Style/CSS/Overview.en.html"
+    - logo: grav.jpg
+      url: "http://www.getgrav.org"  
+    - logo: html.jpg
+      url: "http://validator.w3.org/"  
+    - logo: jquery.jpg
+      url: "http://jquery.com/"    ";s:8:"markdown";s:0:"";}s:7:"storage";a:6:{s:3:"key";s:13:"home/_clients";s:11:"storage_key";s:16:"01.home/_clients";s:8:"template";s:7:"clients";s:17:"storage_timestamp";i:1619815197;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"clients";i:1619815197;}}s:8:"checksum";s:32:"9ad83086e5d60b27c6a5c01383c2a056";}}

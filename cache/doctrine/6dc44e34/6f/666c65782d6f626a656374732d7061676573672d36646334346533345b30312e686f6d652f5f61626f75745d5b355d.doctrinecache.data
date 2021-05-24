@@ -1,0 +1,32 @@
+1621888093
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"home/_about";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:5:"About";s:4:"menu";s:5:"About";s:6:"abouts";a:5:{i:0;a:5:{s:3:"img";s:5:"1.jpg";s:7:"heading";s:9:"2009-2011";s:10:"subheading";s:22:"Our Humble Beginnings.";s:4:"body";s:215:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!";s:5:"align";s:5:"image";}i:1;a:5:{s:3:"img";s:5:"2.jpg";s:7:"heading";s:10:"March 2011";s:10:"subheading";s:18:"An Agency is Born.";s:4:"body";s:215:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!";s:5:"align";s:8:"inverted";}i:2;a:5:{s:3:"img";s:5:"3.jpg";s:7:"heading";s:13:"December 2012";s:10:"subheading";s:27:"Transition to Full Service.";s:4:"body";s:215:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!";s:5:"align";s:5:"image";}i:3;a:5:{s:3:"img";s:5:"4.jpg";s:7:"heading";s:9:"July 2014";s:10:"subheading";s:20:"Phase Two Expansion.";s:4:"body";s:215:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!";s:5:"align";s:8:"inverted";}i:4;a:6:{s:3:"img";N;s:7:"heading";N;s:7:"alttext";s:32:"Be Part<br />Of Our <br />Story!";s:10:"subheading";N;s:4:"body";N;s:5:"align";s:8:"inverted";}}}s:11:"frontmatter";s:1500:"title: About
+menu: About
+abouts:
+    - img: 1.jpg
+      heading: 2009-2011
+      subheading: Our Humble Beginnings.
+      body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      align: image
+    - img: 2.jpg
+      heading: March 2011
+      subheading: An Agency is Born.
+      body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur! 
+      align: inverted
+    - img: 3.jpg
+      heading: December 2012
+      subheading: Transition to Full Service.
+      body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      align: image
+    - img: 4.jpg
+      heading: July 2014
+      subheading: Phase Two Expansion.
+      body: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+      align: inverted 
+    - img: 
+      heading: 
+      alttext: Be Part<br />Of Our <br />Story!
+      subheading:
+      body:
+      align: inverted        ";s:8:"markdown";s:53:"## About
+### Lorem ipsum dolor sit amet consectetur.
+";}s:7:"storage";a:6:{s:3:"key";s:11:"home/_about";s:11:"storage_key";s:14:"01.home/_about";s:8:"template";s:5:"about";s:17:"storage_timestamp";i:1619815197;s:8:"markdown";a:1:{s:0:"";a:1:{s:5:"about";i:1619815197;}}s:8:"checksum";s:32:"1cfd7d2c17d0eadf067bb0958e92a95a";}}
